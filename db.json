@@ -1,0 +1,232 @@
+{
+    "tiles": [
+        {
+            "id": "tile_001",
+            "title": "Ceramic Blue Tile",
+            "description": "Premium ceramic tile with blue glaze finish",
+            "image": "https://images.unsplash.com/photo-1502343019212-cc6a097839ca?auto=format&fit=crop&q=80&w=1000",
+            "category": "ceramic",
+            "price": 45.99,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "creator": "AquaCeram Studio",
+            "styleDescription": "Minimalist glossy finish with calming blue tones",
+            "tags": [
+                "Minimalist",
+                "Blue",
+                "Glossy"
+            ]
+        },
+        {
+            "id": "tile_002",
+            "title": "Marble White Tile",
+            "description": "Elegant white marble tile with natural veins",
+            "image": "https://images.unsplash.com/photo-1533227268408-a774695d9ae9?auto=format&fit=crop&q=80&w=1000",
+            "category": "marble",
+            "price": 75.50,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Marble",
+            "inStock": true,
+            "creator": "LuxStone Designs",
+            "styleDescription": "Classic luxury look with subtle veining",
+            "tags": [
+                "Luxury",
+                "White",
+                "Classic"
+            ]
+        },
+        {
+            "id": "tile_003",
+            "title": "Granite Black Tile",
+            "description": "Durable granite tile with polished black finish",
+            "image": "https://images.pexels.com/photos/2710043/pexels-photo-2710043.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "category": "granite",
+            "price": 65.00,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Granite",
+            "inStock": false,
+            "creator": "StoneCore Ltd.",
+            "styleDescription": "Bold and modern with deep black polish",
+            "tags": [
+                "Modern",
+                "Black",
+                "Polished"
+            ]
+        },
+        {
+            "id": "tile_004",
+            "title": "Porcelain Grey Tile",
+            "description": "Modern grey porcelain tile with matte texture",
+            "image": "https://images.unsplash.com/photo-1541944743827-e04aa6427c33?auto=format&fit=crop&q=80&w=1000",
+            "category": "porcelain",
+            "price": 50.25,
+            "currency": "USD",
+            "dimensions": "60x120 cm",
+            "material": "Porcelain",
+            "inStock": true,
+            "creator": "UrbanTile Co.",
+            "styleDescription": "Contemporary matte finish with urban appeal",
+            "tags": [
+                "Contemporary",
+                "Grey",
+                "Matte"
+            ]
+        },
+        {
+            "id": "tile_005",
+            "title": "Mosaic Glass Tile",
+            "description": "Decorative glass mosaic tile with mixed colors",
+            "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "category": "glass",
+            "price": 90.00,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Glass",
+            "inStock": true,
+            "creator": "ColorCraft Studio",
+            "styleDescription": "Artistic mosaic with vibrant color blends",
+            "tags": [
+                "Decorative",
+                "Colorful",
+                "Mosaic"
+            ]
+        },
+        {
+            "id": "tile_006",
+            "title": "Terracotta Rustic Tile",
+            "description": "Traditional terracotta tile with rustic finish",
+            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=1000",
+            "category": "terracotta",
+            "price": 35.75,
+            "currency": "USD",
+            "dimensions": "40x40 cm",
+            "material": "Terracotta",
+            "inStock": true,
+            "creator": "Heritage Clay Works",
+            "styleDescription": "Warm earthy tones with a rustic handcrafted feel",
+            "tags": [
+                "Rustic",
+                "Earthy",
+                "Traditional"
+            ]
+        },
+        {
+            "id": "tile_007",
+            "title": "Slate Natural Tile",
+            "description": "Natural slate tile with textured surface",
+            "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?auto=format&fit=crop&q=80&w=1000",
+            "category": "stone",
+            "price": 70.00,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Slate",
+            "inStock": false,
+            "creator": "NatureStone Inc.",
+            "styleDescription": "Raw natural texture for organic interiors",
+            "tags": [
+                "Natural",
+                "Textured",
+                "Stone"
+            ]
+        },
+        {
+            "id": "tile_008",
+            "title": "Wood Look Tile",
+            "description": "Porcelain tile designed to mimic natural wood",
+            "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=1000",
+            "category": "porcelain",
+            "price": 55.00,
+            "currency": "USD",
+            "dimensions": "20x120 cm",
+            "material": "Porcelain",
+            "inStock": true,
+            "creator": "EcoFloor Designs",
+            "styleDescription": "Wood-inspired texture with durable porcelain build",
+            "tags": [
+                "Wood Look",
+                "Warm",
+                "Natural"
+            ]
+        },
+        {
+            "id": "tile_009",
+            "title": "Concrete Finish Tile",
+            "description": "Industrial-style tile with concrete finish",
+            "image": "https://images.unsplash.com/photo-1516641396056-0ce60a85d49f?auto=format&fit=crop&q=80&w=1000",
+            "category": "ceramic",
+            "price": 48.90,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "creator": "IndustroTiles",
+            "styleDescription": "Industrial aesthetic with raw concrete feel",
+            "tags": [
+                "Industrial",
+                "Concrete",
+                "Modern"
+            ]
+        },
+        {
+            "id": "tile_010",
+            "title": "Beige Sandstone Tile",
+            "description": "Soft beige sandstone tile for natural look",
+            "image": "https://images.pexels.com/photos/1010973/pexels-photo-1010973.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "category": "stone",
+            "price": 68.40,
+            "currency": "USD",
+            "dimensions": "60x90 cm",
+            "material": "Sandstone",
+            "inStock": true,
+            "creator": "DesertStone Creations",
+            "styleDescription": "Soft neutral tones inspired by desert landscapes",
+            "tags": [
+                "Neutral",
+                "Beige",
+                "Natural"
+            ]
+        },
+        {
+            "id": "tile_011",
+            "title": "Patterned Vintage Tile",
+            "description": "Vintage-style patterned tile with artistic design",
+            "image": "https://images.unsplash.com/photo-1523301343968-6a6ebf63c672?auto=format&fit=crop&q=80&w=1000",
+            "category": "ceramic",
+            "price": 52.30,
+            "currency": "USD",
+            "dimensions": "45x45 cm",
+            "material": "Ceramic",
+            "inStock": false,
+            "creator": "RetroArt Tiles",
+            "styleDescription": "Classic vintage patterns with artistic flair",
+            "tags": [
+                "Vintage",
+                "Patterned",
+                "Artistic"
+            ]
+        },
+        {
+            "id": "tile_012",
+            "title": "Polished Onyx Tile",
+            "description": "Luxury onyx tile with polished translucent surface",
+            "image": "https://images.pexels.com/photos/2042295/pexels-photo-2042295.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "category": "onyx",
+            "price": 120.00,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Onyx",
+            "inStock": true,
+            "creator": "EliteStone Gallery",
+            "styleDescription": "High-end luxurious finish with translucent depth",
+            "tags": [
+                "Luxury",
+                "Onyx",
+                "Glossy"
+            ]
+        }
+    ]
+}
