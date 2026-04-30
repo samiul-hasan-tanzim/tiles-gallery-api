@@ -5,6 +5,13 @@
             "title": "Ceramic Blue Tile",
             "description": "Premium ceramic tile with blue glaze finish",
             "image": "https://images.unsplash.com/photo-1502343019212-cc6a097839ca?auto=format&fit=crop&q=80&w=1000",
+            "thumbnails": [
+                "https://www.marblesystems.com/wp-content/uploads/2012/roomscenes/WIS12192-WIS12190.jpg",
+                "https://img.archiexpo.com/images_ae/photo-mg/167969-21151597.webp",
+                "https://cdn.shopify.com/s/files/1/0268/4193/9991/files/mineral-tiles-terracotta-simple-walk-in-shower.png?v=1753778126",
+                "https://scherflooringservices.com/wp-content/uploads/2024/12/Ceramic-Tile-Materials_Types-Benefits-and-Maintenance-800x480.jpg",
+                "https://www.edwardmartin.com/cdn/shop/articles/blog-which-type-of-bathroom-tile-is-easiest-to-clean-01-2000x1300_868a165e-5db3-4421-9e44-43ca72af4c1c.jpg?v=1771553892&width=1200"
+            ],
             "category": "ceramic",
             "price": 45.99,
             "currency": "USD",
@@ -23,7 +30,14 @@
             "id": "tile_002",
             "title": "Marble White Tile",
             "description": "Elegant white marble tile with natural veins",
-            "image": "https://images.unsplash.com/photo-1533227268408-a774695d9ae9?auto=format&fit=crop&q=80&w=1000",
+            "image": "https://cdn.magicdecor.in/com/2024/01/12133549/Luxury-Golden-Marble-Magic-Wallpaper-Mural-M-710x488.jpg",
+            "thumbnails": [
+                "https://5.imimg.com/data5/SELLER/Default/2025/10/550360921/ZL/RW/EE/252799146/marble-wallpaper-500x500.jpg",
+                "https://i.pinimg.com/736x/ab/84/1b/ab841b0f82c4de8a1235840537cf74dd.jpg",
+                "https://myindianthings.com/cdn/shop/products/7_e17ac777-79ff-4725-a73b-cc2bc848f5f7_1024x.jpg?v=1656495177",
+                "https://instagram.fdac202-1.fna.fbcdn.net/v/t51.82787-15/662684267_18584333620018284_3245653480588819216_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mjk5MTk1MTk3Mjg1NzM5MjgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyNDN4MTIwNS5zZHIuQzMifQ%3D%3D&_nc_ohc=A90GCI03UhMQ7kNvwFgMW4X&_nc_oc=AdqkIsNmW7qHXqZgZEnSXMsitW_5UabpS1ZBMXZ8BK6XFqsQ9TeZ-V39-DLij8yIIec&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fdac202-1.fna&_nc_gid=XjJOexADdDsavv0MjqJv3w&_nc_ss=7a22e&oh=00_Af2IRiJ4pKtYEOtGQfj1VRfQqK2h-cLZJZDCu1PWx8sPAA&oe=69F8BB03",
+                "https://instagram.fdac202-1.fna.fbcdn.net/v/t51.82787-15/649235637_18101960672492757_587729825946059225_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mjg1NDY3OTIyMjAzNzQ5NDc0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyNDJ4MTI0Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=bBIqIKoj0IcQ7kNvwGRp_O4&_nc_oc=AdqQjEUH6iAUbZQfj_qzDZgu-LP0289FgVM9zp8tPt6VMfHZuLgGgCB_Moe0txQxXM8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fdac202-1.fna&_nc_gid=t_ibyrt7rdupnNj0ixhfVw&_nc_ss=7a22e&oh=00_Af12fvk0_L6HV_p7YcW5DnjRtZTO96enlRwsIVKquGyhGw&oe=69F8B368"
+            ],
             "category": "marble",
             "price": 75.50,
             "currency": "USD",
@@ -42,7 +56,14 @@
             "id": "tile_003",
             "title": "Granite Black Tile",
             "description": "Durable granite tile with polished black finish",
-            "image": "https://images.pexels.com/photos/2710043/pexels-photo-2710043.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "image": "https://www.shutterstock.com/shutterstock/videos/1101242409/thumb/1.jpg?ip=x480",
+            "thumbnails": [
+                "https://cdn.magicdecor.in/com/2024/12/13132927/Black-Granite-Marble-Texture-Wallpaper-Mural-M-710x450.jpg",
+                "https://5.imimg.com/data5/SELLER/Default/2023/5/305558012/CI/HI/DD/187514615/black-granite-wallpaper-500x500.jpg",
+                "https://www.emilgroup.it/media/filer_public/3f/03/3f03711c-9d4b-4375-b78e-04d07c4a6c8e/unique_intensity_black_120x278_120x120_arcade_30x60_amb_cucina.jpg",
+                "https://server.orientbell.com/media/black-tiles.jpg",
+                "https://www.worldoftiles.ie/cdn/shop/files/blue-golden-60x120_6c0cc15c-e9c3-4891-9d01-97e0acafe6a5.jpg?v=1761838083&width=1445"
+            ],
             "category": "granite",
             "price": 65.00,
             "currency": "USD",
@@ -61,7 +82,14 @@
             "id": "tile_004",
             "title": "Porcelain Grey Tile",
             "description": "Modern grey porcelain tile with matte texture",
-            "image": "https://images.unsplash.com/photo-1541944743827-e04aa6427c33?auto=format&fit=crop&q=80&w=1000",
+            "image": "https://www.refin-ceramic-tiles.com/file/600x600xcropped/collezioni/Eras/ERAS_BLACK-MATT_60X60_01.jpg",
+            "thumbnails": [
+                "https://www.novoceram.com/wp-content/uploads/sites/4/2024/04/novoceram-way-fer-60x120-chambre.jpg",
+                "https://eco-tileimports.com/cdn/shop/products/STYLE-MARENGO-60X60-30X60-AMB_large.jpg?v=1525454117",
+                "https://apavisa.com/storage/kangen-dormitorio-grande-pared-decorativa.jpg",
+                "https://tilesahead.co.uk/cdn/shop/files/minsafe-stone-grey-30x60-ambiance_1c3968fc-db69-4331-aabf-6e1ccfa65eda_600x600_crop_center.jpg?v=1730204201",
+                "https://giorbello.com/cdn/shop/files/Natural_Gray_Ambience_Italian_Porcelain_Tile_for_Floors_and_Walls_Elegant_Design.jpg?v=1740082278&width=1946"
+            ],
             "category": "porcelain",
             "price": 50.25,
             "currency": "USD",
@@ -80,7 +108,14 @@
             "id": "tile_005",
             "title": "Mosaic Glass Tile",
             "description": "Decorative glass mosaic tile with mixed colors",
-            "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/074/000/446/small_2x/colorful-broken-tile-mosaic-texture-background-ceramic-photo.jpg",
+            "thumbnails": [
+                "https://cdn.magicdecor.in/com/2024/07/26131546/Moroccan-Mosaic-Zelij-Tiles-Wallpaper-M-710x488.jpg",
+                "https://cdn.magicdecor.in/com/2024/07/26130119/Grunge-Floral-Mosaic-Tiles-Mural-Wallpaper-710x488.jpg",
+                "https://media.designcafe.com/wp-content/uploads/2023/09/08151258/mosaic-tiles-designs.jpg",
+                "https://blujellyfish.com/cdn/shop/products/1_e39c5a5d-c2ad-41ec-b3bb-08a2d5c6fcc1_700x700.jpg?v=1557394763",
+                "https://m.media-amazon.com/images/I/81ldhjkVFBL._AC_UF894,1000_QL80_.jpg"
+            ],
             "category": "glass",
             "price": 90.00,
             "currency": "USD",
@@ -99,7 +134,14 @@
             "id": "tile_006",
             "title": "Terracotta Rustic Tile",
             "description": "Traditional terracotta tile with rustic finish",
-            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=1000",
+            "image": "https://images.pexels.com/photos/32004262/pexels-photo-32004262/free-photo-of-rustic-terracotta-roof-tiles-with-moss.jpeg",
+            "thumbnails": [
+                "https://www.stonetiledepot.com/wp-content/uploads/2023/01/square-terracotta-tile-min-800x500.jpg",
+                "https://terracotta.com.my/wp-content/uploads/2026/01/original-terracotta-tile-tonal-burn-1024x994.jpeg",
+                "https://www.explorematerial.com/cdn/shop/files/ReclaimedTerracottaHex_view1.jpg?crop=center&height=1200&v=1720460789&width=1200",
+                "https://clayimports.com/cdn/shop/files/Antique-Satin-Sealed-12-Clay-Imports-Design-Anna-Kidd-Photo-Yanglin-Cai-Web.jpg?v=1762195429&width=1946",
+                "https://www.hyperiontiles.co.uk/cdn/shop/files/marlborough-terracotta-parquet-1385606.jpg?format=webp&v=1772881252&width=1600"
+            ],
             "category": "terracotta",
             "price": 35.75,
             "currency": "USD",
@@ -119,6 +161,13 @@
             "title": "Slate Natural Tile",
             "description": "Natural slate tile with textured surface",
             "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?auto=format&fit=crop&q=80&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "stone",
             "price": 70.00,
             "currency": "USD",
@@ -138,6 +187,13 @@
             "title": "Wood Look Tile",
             "description": "Porcelain tile designed to mimic natural wood",
             "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "porcelain",
             "price": 55.00,
             "currency": "USD",
@@ -157,6 +213,13 @@
             "title": "Concrete Finish Tile",
             "description": "Industrial-style tile with concrete finish",
             "image": "https://images.unsplash.com/photo-1516641396056-0ce60a85d49f?auto=format&fit=crop&q=80&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "ceramic",
             "price": 48.90,
             "currency": "USD",
@@ -176,6 +239,13 @@
             "title": "Beige Sandstone Tile",
             "description": "Soft beige sandstone tile for natural look",
             "image": "https://images.pexels.com/photos/1010973/pexels-photo-1010973.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "stone",
             "price": 68.40,
             "currency": "USD",
@@ -195,6 +265,13 @@
             "title": "Patterned Vintage Tile",
             "description": "Vintage-style patterned tile with artistic design",
             "image": "https://images.unsplash.com/photo-1523301343968-6a6ebf63c672?auto=format&fit=crop&q=80&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "ceramic",
             "price": 52.30,
             "currency": "USD",
@@ -214,6 +291,13 @@
             "title": "Polished Onyx Tile",
             "description": "Luxury onyx tile with polished translucent surface",
             "image": "https://images.pexels.com/photos/2042295/pexels-photo-2042295.jpeg?auto=compress&cs=tinysrgb&w=1000",
+            "thumbnails": [
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg",
+                "https://thumbs.dreamstime.com/b/blue-ceramic-pool-tiles-rippling-water-background-reflecting-light-swimming-area-mobile-photo-blue-ceramic-pool-tiles-448237929.jpg"
+            ],
             "category": "onyx",
             "price": 120.00,
             "currency": "USD",
