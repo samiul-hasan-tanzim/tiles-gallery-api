@@ -136,11 +136,11 @@
             "description": "Traditional terracotta tile with rustic finish",
             "image": "https://images.pexels.com/photos/32004262/pexels-photo-32004262/free-photo-of-rustic-terracotta-roof-tiles-with-moss.jpeg",
             "thumbnails": [
+                "https://images.pexels.com/photos/32004262/pexels-photo-32004262/free-photo-of-rustic-terracotta-roof-tiles-with-moss.jpeg",
                 "https://www.stonetiledepot.com/wp-content/uploads/2023/01/square-terracotta-tile-min-800x500.jpg",
                 "https://terracotta.com.my/wp-content/uploads/2026/01/original-terracotta-tile-tonal-burn-1024x994.jpeg",
                 "https://www.explorematerial.com/cdn/shop/files/ReclaimedTerracottaHex_view1.jpg?crop=center&height=1200&v=1720460789&width=1200",
-                "https://clayimports.com/cdn/shop/files/Antique-Satin-Sealed-12-Clay-Imports-Design-Anna-Kidd-Photo-Yanglin-Cai-Web.jpg?v=1762195429&width=1946",
-                "https://www.hyperiontiles.co.uk/cdn/shop/files/marlborough-terracotta-parquet-1385606.jpg?format=webp&v=1772881252&width=1600"
+                "https://clayimports.com/cdn/shop/files/Antique-Satin-Sealed-12-Clay-Imports-Design-Anna-Kidd-Photo-Yanglin-Cai-Web.jpg?v=1762195429&width=1946"
             ],
             "category": "terracotta",
             "price": 35.75,
@@ -310,6 +310,206 @@
                 "Luxury",
                 "Onyx",
                 "Glossy"
+            ]
+        },
+        {
+            "id": "tile_013",
+            "title": "Travertine Classic Tile",
+            "description": "Natural travertine tile with warm beige tones",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+            "thumbnails": [],
+            "category": "stone",
+            "price": 72.00,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Travertine",
+            "inStock": true,
+            "creator": "StoneElegance",
+            "styleDescription": "Timeless natural stone with subtle texture",
+            "tags": [
+                "Classic",
+                "Beige",
+                "Natural"
+            ]
+        },
+        {
+            "id": "tile_014",
+            "title": "Glossy Red Ceramic Tile",
+            "description": "Vibrant red ceramic tile with glossy finish",
+            "image": "https://images.unsplash.com/photo-1582582621959-48d27397dc69",
+            "thumbnails": [],
+            "category": "ceramic",
+            "price": 44.20,
+            "currency": "USD",
+            "dimensions": "30x60 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "creator": "BrightCeram",
+            "styleDescription": "Bold glossy finish for striking interiors",
+            "tags": [
+                "Bold",
+                "Red",
+                "Glossy"
+            ]
+        },
+        {
+            "id": "tile_015",
+            "title": "Hexagon Mosaic Tile",
+            "description": "Modern hexagon mosaic tile design",
+            "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+            "thumbnails": [],
+            "category": "mosaic",
+            "price": 88.00,
+            "currency": "USD",
+            "dimensions": "25x25 cm",
+            "material": "Glass",
+            "inStock": true,
+            "creator": "GeoTiles Studio",
+            "styleDescription": "Geometric modern patterns with sleek appeal",
+            "tags": [
+                "Geometric",
+                "Modern",
+                "Mosaic"
+            ]
+        },
+        {
+            "id": "tile_016",
+            "title": "Dark Brown Wood Tile",
+            "description": "Wood-look tile with deep brown finish",
+            "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+            "thumbnails": [],
+            "category": "porcelain",
+            "price": 58.75,
+            "currency": "USD",
+            "dimensions": "20x120 cm",
+            "material": "Porcelain",
+            "inStock": true,
+            "creator": "WoodStone Co.",
+            "styleDescription": "Warm wood aesthetics with modern durability",
+            "tags": [
+                "Wood Look",
+                "Brown",
+                "Warm"
+            ]
+        },
+        {
+            "id": "tile_017",
+            "title": "Textured Outdoor Tile",
+            "description": "Slip-resistant tile for outdoor spaces",
+            "image": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c",
+            "thumbnails": [],
+            "category": "porcelain",
+            "price": 62.40,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Porcelain",
+            "inStock": true,
+            "creator": "OutdoorPro Tiles",
+            "styleDescription": "Durable textured finish for exterior use",
+            "tags": [
+                "Outdoor",
+                "Textured",
+                "Durable"
+            ]
+        },
+        {
+            "id": "tile_018",
+            "title": "Blue Patterned Tile",
+            "description": "Decorative blue tile with intricate patterns",
+            "image": "https://images.unsplash.com/photo-1523419409543-a5e549c1a10e",
+            "thumbnails": [],
+            "category": "ceramic",
+            "price": 53.60,
+            "currency": "USD",
+            "dimensions": "45x45 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "creator": "Artisan Tiles",
+            "styleDescription": "Artistic patterns with vibrant blue tones",
+            "tags": [
+                "Patterned",
+                "Blue",
+                "Decorative"
+            ]
+        },
+        {
+            "id": "tile_019",
+            "title": "Green Subway Tile",
+            "description": "Classic subway tile in rich green color",
+            "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+            "thumbnails": [],
+            "category": "ceramic",
+            "price": 39.90,
+            "currency": "USD",
+            "dimensions": "10x20 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "creator": "MetroTile Works",
+            "styleDescription": "Classic subway style with modern color twist",
+            "tags": [
+                "Subway",
+                "Green",
+                "Classic"
+            ]
+        },
+        {
+            "id": "tile_020",
+            "title": "Black Matte Porcelain Tile",
+            "description": "Minimalist black tile with matte finish",
+            "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+            "thumbnails": [],
+            "category": "porcelain",
+            "price": 66.30,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Porcelain",
+            "inStock": false,
+            "creator": "MinimalStone",
+            "styleDescription": "Sleek matte finish for modern interiors",
+            "tags": [
+                "Minimal",
+                "Black",
+                "Matte"
+            ]
+        },
+        {
+            "id": "tile_021",
+            "title": "Luxury Gold Vein Tile",
+            "description": "Premium tile with gold vein accents",
+            "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+            "thumbnails": [],
+            "category": "marble",
+            "price": 110.00,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Marble",
+            "inStock": true,
+            "creator": "RoyalStone",
+            "styleDescription": "Elegant gold veining for luxury spaces",
+            "tags": [
+                "Luxury",
+                "Gold",
+                "Elegant"
+            ]
+        },
+        {
+            "id": "tile_022",
+            "title": "Pebble Stone Tile",
+            "description": "Natural pebble tile for spa-like environments",
+            "image": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+            "thumbnails": [],
+            "category": "stone",
+            "price": 77.25,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Pebble Stone",
+            "inStock": true,
+            "creator": "NaturePebble Co.",
+            "styleDescription": "Organic pebble texture for relaxing spaces",
+            "tags": [
+                "Pebble",
+                "Natural",
+                "Spa"
             ]
         }
     ],
